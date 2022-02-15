@@ -14,14 +14,20 @@
 | 인천대학교 임베디드시스템공학과 17대 학생회장 | 2019.12~2020.12 | 학생회장 활동 |
 | 에이티아이(주) | 2021.08~ | 반도체검사장비 SW 개발 |
 
+## ⚡Skill
+- (현)주력 언어 C# [WPF MVVM패턴을 이용한 xaml, ViewModel 구현]
+- C++ (MFC)
+- C
+- Linux
+- Arduino
+- MATLAB
+- Git
 
-- Hi, I’m @daedeuk
-## Features
-- 👀 I’m interested in ...
-- Import a HTML file and watch it magically convert to Markdown
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👀Studying
+- <code>JAVA</code>
+- <code>프론트엔드</code> HTML, CSS, JS
+- <code>백엔드</code> Node.js
+
 
 <!---
 daedeuk/daedeuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
