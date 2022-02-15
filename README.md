@@ -15,7 +15,7 @@
 | 에이티아이(주) | 2021.08~ | 반도체검사장비 SW 개발 |
 
 ## ⚡Skill
-- (현)주력 언어 C# [WPF MVVM패턴을 이용한 xaml, ViewModel 구현]
+- <code>(현)</code>주력 언어 : C# (WPF MVVM패턴을 이용한 xaml을 통한 UI 구현, ViewModel을 통한 알고리즘 구현)
 - C++ (MFC)
 - C
 - Linux
