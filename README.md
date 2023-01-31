@@ -27,8 +27,8 @@
 ## 👀Studying
 SSAFY (삼성 청년 SW 아카데미) 8기
 - <code>JAVA</code>
-- <code>프론트엔드</code> Vue.js + (HTML, CSS, JS)
-- <code>백엔드</code> Springboot 기반 Rest API 제작 + JPA
+- <code>Frontend</code> Vue.js + (HTML, CSS, JS)
+- <code>Backend</code> Springboot 기반 Rest API 제작 + JPA
 
 
 <!---
