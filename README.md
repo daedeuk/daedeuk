@@ -28,6 +28,10 @@
 SSAFY (삼성 청년 SW 아카데미) 8기
 - <code>MSA</code>
 
+## 📘Portfolio
+[신대득의 포트폴리오](https://tiny-astrodon-7d8.notion.site/7c35925606dd4905a7582a0901649b58)
+
+
 <hr/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shindae96)](https://solved.ac/shindaed96/)
