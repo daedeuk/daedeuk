@@ -26,7 +26,6 @@
 
 ## 👀Studying
 SSAFY (삼성 청년 SW 아카데미) 8기
-- <code>BlockChain</code>
 - <code>MSA</code>
 
 <hr/>
