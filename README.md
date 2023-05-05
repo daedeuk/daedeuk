@@ -30,7 +30,6 @@ SSAFY (삼성 청년 SW 아카데미) 8기
 
 ## 📘Portfolio
 링크 : [신대득의 포트폴리오](https://tiny-astrodon-7d8.notion.site/7c35925606dd4905a7582a0901649b58) <br/>
-파일 : [신대득의 포트폴리오.pdf](https://github.com/daydeuk/daydeuk/files/11366948/_.pdf)
 
 
 <hr/>
