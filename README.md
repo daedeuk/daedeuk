@@ -1,5 +1,5 @@
-## 😎매개체형 개발자가 목표인 신대득의 깃허브 페이지입니다
-- <code>(현)</code> SSAFY 8기생
+## 😎소통과 도전으로 성장하는 개발자 신대득의 깃허브 페이지입니다
+- <code>(현)</code> 현대오토에버 SF융합기술팀
 
 ## 👋연혁
 
@@ -11,12 +11,14 @@
 | 에이티아이(주) | 2021.08~2022.04 | 반도체검사장비 SW 개발 |
 |    42SEOUL    | 2021.05~2022.07 | 라피신 7기 2차 후 본과정 합격 |
 |    SSAFY      | 2022.07~2022.12 | 삼성 청년 SW 아카데미 8기 1학기 광주 5반 반장 |
-|    SSAFY      | 2023.01~2023.04 | 삼성 청년 SW 아카데미 8기 2학기 광주지역대표 |
+|    SSAFY      | 2023.01~2023.06 | 삼성 청년 SW 아카데미 8기 2학기 광주지역대표 |
+|    현대오토에버 SF융합기술팀      | 2023.07~ | 제조 통합 플랫폼 Java 백엔드 개발 |
 
 ## ⚡Skill
-- 주력 언어 : <code>JAVA</code>, <code>C#</code> (WPF MVVM패턴을 이용한 xaml을 통한 UI 구현, ViewModel을 통한 알고리즘 구현)
+- 주력 언어 : <code>JAVA</code>
+- **Backend** : Spring Boot 기반 Rest API 제작 (JPA, Mybatis)
 - Frontend : Vue.js
-- **Backend** : Springboot 기반 Rest API 제작 + JPA
+- C# (WPF MVVM패턴을 이용한 xaml을 통한 UI 구현, ViewModel을 통한 알고리즘 구현)
 - C++ (MFC)
 - C
 - Linux
@@ -25,7 +27,8 @@
 - Git
 
 ## 👀Studying
-SSAFY (삼성 청년 SW 아카데미) 8기
+- <code>k8s</code>
+- <code>Kafka</code>
 - <code>MSA</code>
 
 ## 📘Portfolio
